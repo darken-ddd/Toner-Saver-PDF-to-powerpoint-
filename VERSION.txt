@@ -1,0 +1,2 @@
+TonerSaverPDF 1.1
+Fixed Windows batch files (CRLF + ASCII).
